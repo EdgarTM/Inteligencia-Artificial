@@ -1,4 +1,5 @@
 # Implementación del algoritmo A*
+**Elaborado por:** Edgar Tapia Martinez (21120262)
 
 Para la realizacion de este proyecto, se tomo como referencia los
 apuntes y el codigo base proporcionados por el profesor en su página, asi como diversos ejercicios realizados en clase que funjieron un papel importante para la comprensión de la forma de trabjar del algoritmo.
